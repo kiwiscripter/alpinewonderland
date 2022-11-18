@@ -1,0 +1,3 @@
+build/
+pebble_screenshot_*_*.png
+.lock-waf_linux2_build
